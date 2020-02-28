@@ -1,0 +1,9 @@
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\bin\Debug\MIVS-LR2.exe.config
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS-LR2.csprojResolveAssemblyReference.cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS_LR2.Form1.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS_LR2.Properties.Resources.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS-LR2.csproj.GenerateResource.Cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\bin\Debug\MIVS-LR2.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\bin\Debug\MIVS-LR2.pdb
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS-LR2.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\MIVS-LR2\MIVS-LR2\obj\Debug\MIVS-LR2.pdb
