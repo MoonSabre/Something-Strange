@@ -7,11 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NAudio;
 
 namespace Reader
 {
     public partial class Form1 : Form
     {
+        private NAudio.Wave.WaveFileReader Clock = null;
+        private NAudio.Wave.DirectSoundOut Play1 = new NAudio.Wave.DirectSoundOut();
+
         public Form1()
         {
             InitializeComponent();
@@ -27,6 +31,10 @@ namespace Reader
         private void button1_Click(object sender, EventArgs e)
         {
             label2.Text = Convert.ToString(DateTime.Now);
+            Timer timer1 = new Timer();
+            timer1.Interval = 1000;
+            timer1.Enabled = true;
+            timer1.Tick += new EventHandler(TimerClock);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -81,6 +89,25 @@ namespace Reader
             listBox2.Items.Clear();
         }
 
+        void TimerClock(object sender, EventArgs e)
+        {
+            if (label2.Text != "—————————————————")
+            {
+
+                TimeSpan calc = (DateTime.Now - Convert.ToDateTime(label2.Text));
+                var calc1 = Math.Round(calc.TotalSeconds, 0); 
+                TimeSpan halfhour = new TimeSpan(0, 30, 0);
+                var half = halfhour.TotalSeconds;
+                if ((calc1 % half) == 0)
+                {
+                    Clock = new NAudio.Wave.WaveFileReader("Beep.wav");
+                    Play1 = new NAudio.Wave.DirectSoundOut();
+                    Play1.Init(new NAudio.Wave.WaveChannel32(Clock));
+                    Play1.Play();
+                    
+                }
+            }
+    }
         #region
         private void label2_Click(object sender, EventArgs e)
         {
