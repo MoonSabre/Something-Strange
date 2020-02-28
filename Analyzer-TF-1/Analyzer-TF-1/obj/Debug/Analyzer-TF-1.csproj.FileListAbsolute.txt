@@ -1,0 +1,19 @@
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.exe.config
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.pdb
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.csprojResolveAssemblyReference.cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer_TF_1.Form1.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer_TF_1.Properties.Resources.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.csproj.GenerateResource.Cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.pdb
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.exe.config
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.exe
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\bin\Debug\Analyzer-TF-1.pdb
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.csprojResolveAssemblyReference.cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer_TF_1.Form1.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer_TF_1.Properties.Resources.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.csproj.GenerateResource.Cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.csproj.CoreCompileInputs.cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.exe
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\Analyzer-TF-1\Analyzer-TF-1\obj\Debug\Analyzer-TF-1.pdb
