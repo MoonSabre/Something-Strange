@@ -1,0 +1,25 @@
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.exe.config
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.pdb
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.csprojResolveAssemblyReference.cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.Form1.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.Properties.Resources.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.csproj.GenerateResource.Cache
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.exe
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.pdb
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.SphereForm.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.CylinderForm.resources
+C:\Users\Гефест\Documents\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.PyramideForm.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.exe.config
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.exe
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\bin\Debug\PracticLaboratory.pdb
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.csprojResolveAssemblyReference.cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.CylinderForm.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.Form1.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.Properties.Resources.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.PyramideForm.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.SphereForm.resources
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.csproj.GenerateResource.Cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.csproj.CoreCompileInputs.cache
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.exe
+C:\Arette\Сохранения и прочее\Notes\Fu-035-I\PracticLaboratory\PracticLaboratory\obj\Debug\PracticLaboratory.pdb
